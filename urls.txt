@@ -1,0 +1,4 @@
+course://web.backend?name=%22%D0%92%D0%B5%D0%BD%D1%96%D0%B0%D0%BC%D1%96%D0%BD%20%D0%96%D1%83%D0%BA%22&group=%22%D0%A4%D0%95%D0%86-26%22&subgroup=%222%20%D0%BF%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%22#BenjaminZhuk
+
+
+https://bank.gov.ua/NBU_Exchange/exchange_site?valcode=USD&start=20220707&end=20220719&sort=exdate&order=desc&json
